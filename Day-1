@@ -1,10 +1,13 @@
 Question:
-<a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock/">DAY-1 Buy and Sell stocks </a>
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock/">DAY-1 Buy and Sell stocks
+
+
 Java Soln:
 class Solution {
     public int maxProfit(int[] prices) {
-         
+         // Minimum cost 
         int minimumcost = prices[0];
+        // Maximum profit
         int maximumprofit = 0;
         
         
