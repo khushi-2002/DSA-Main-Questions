@@ -5,4 +5,4 @@ DAY-1 Question:
 <a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock/">DAY-1 Buy and Sell stocks</a>
 <br>
 DAY-2 Question:
-<a href="https://leetcode.com/problems/single-number/submissions/"DAY-2 Single Number</a>
+<a href="https://leetcode.com/problems/single-number/submissions/">DAY-2 Single Number</a>
