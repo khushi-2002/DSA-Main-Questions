@@ -6,3 +6,6 @@ DAY-1 Question:
 <br>
 DAY-2 Question:
 <a href="https://leetcode.com/problems/single-number/submissions/">DAY-2 Single Number</a>
+<br>
+DAY-3 Question:
+<a href="https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/">DAY-3 Two Sum-II Input array is sorted </a>
